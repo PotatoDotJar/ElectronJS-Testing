@@ -1,0 +1,22 @@
+{
+  "name": "electronjs-testing",
+  "version": "0.1.0",
+  "description": "ElectronJS-Testing",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PotatoSauceVFX/ElectronJS-Testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PotatoSauceVFX/ElectronJS-Testing/issues"
+  },
+  "homepage": "https://github.com/PotatoSauceVFX/ElectronJS-Testing#readme",
+  "devDependencies": {
+    "electron": "^7.1.7"
+  }
+}
